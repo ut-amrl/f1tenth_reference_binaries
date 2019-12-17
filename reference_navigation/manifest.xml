@@ -1,0 +1,22 @@
+<package>
+  <description brief="reference_navigation">
+
+    Reference navigation implementation for F1/10 car.
+
+  </description>
+  <name>reference_navigation</name>
+  <author>Joydeep Biswas</author>
+  <license>LGPL3.0</license>
+  <review status="unreviewed" notes=""/>
+  <url></url>
+  <depend package="std_msgs"/>
+  <depend package="nav_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="visualization_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="f1tenth_course"/>
+
+</package>
+
+
